@@ -1,0 +1,25 @@
+{
+  "name": "movie",
+  "homepage": "https://github.com/TOBEno11/code_lib",
+  "authors": [
+    "TOBEno11 <2439677061@qq.com>"
+  ],
+  "description": "movie",
+  "main": "",
+  "keywords": [
+    "movie"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
